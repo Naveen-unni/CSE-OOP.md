@@ -1,15 +1,14 @@
 ---
 
-Semester: S3  
-Course Type: Theory 
-course-code: PBCST304 
-Credits: 4  
-Exam Hours: 2 Hrs 30 Min  
-CIE Marks: 60  
-ESE Marks: 40  
-Teaching Hours/Week: 3:0:0:1  
-Prerequisites: None  
-Common to: CS/CA/CD/AM/CB/CN/CU/CG
+country: "india"
+university: "ktu"
+branch: "computer-science"
+version: "2024"
+semester: 3
+course-code: "PBCST304"
+course-title: "object-oriented-programming"
+language: "english"
+contributor: "@Naveen-unni"
 ---
 
 # PBCST304 - Object Oriented Programming (OOP)
